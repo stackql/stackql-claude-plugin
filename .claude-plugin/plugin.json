@@ -1,14 +1,14 @@
 {
   "name": "stackql",
   "displayName": "StackQL",
-  "version": "1.0.888",
+  "version": "1.1.959",
   "description": "Query, provision and deprovision cloud and SaaS resources with SQL through a local StackQL MCP server. Provider credentials stay on your machine.",
   "author": {
     "name": "StackQL Studios",
     "email": "info@stackql.io",
     "url": "https://stackql.io"
   },
-  "homepage": "https://stackql.io/docs",
+  "homepage": "https://stackql.io/getting-started",
   "repository": "https://github.com/stackql/stackql",
   "license": "MIT",
   "keywords": [
@@ -21,7 +21,7 @@
     "devops"
   ],
   "icon": "./icon.png",
-  "documentationUrl": "https://stackql.io/docs",
+  "documentationUrl": "https://stackql.io/getting-started",
   "supportUrl": "https://stackql.io/support",
   "privacyPolicyUrl": "https://stackql.io/privacy",
   "termsOfServiceUrl": "https://stackql.io/terms",
